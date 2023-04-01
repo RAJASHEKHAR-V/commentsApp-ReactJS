@@ -1,0 +1,140 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+.comment-item {
+  width: 100%;
+  padding-left: 5px;
+}
+
+.user-status-card {
+  width: 98%;
+  display: flex;
+  align-items: flex-start;
+}
+
+.radius {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6px;
+}
+
+.first-letter {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: 400;
+}
+
+.user-details-card {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.user-details {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.user-name {
+  font-family: 'Roboto';
+  color: #334155;
+  font-weight: 700;
+}
+
+.comment-time {
+  font-family: 'Roboto';
+  color: #7e858e;
+  font-weight: 300;
+}
+
+.user-comment {
+  font-family: 'Roboto';
+  color: #64748b;
+  font-weight: normal;
+}
+
+.button-card {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image-button {
+  height: 50px;
+  width: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-family: 'Roboto';
+  color: #b3b3b3;
+  font-weight: 800;
+}
+
+.apply-like {
+  font-family: 'Roboto';
+  color: #0b69ff;
+  font-weight: 600;
+}
+
+.like-image {
+  width: 28%;
+  height: 50%;
+}
+
+.delete-button {
+  height: 50px;
+  width: 50px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.delete-image {
+  width: 45%;
+  height: 40%;
+}
+
+.li-rule {
+  margin-left: 8px;
+  border-width: 1px;
+  color: #94a3b8;
+}
